@@ -20,7 +20,7 @@ Location: Hefei City, Anhui Province | CHINA
 
 ## **INTERNSHIP EXPERIENCE**
 
-| **Company**                   | **Location**    | **Degree**                  | **Duration**          |
+| **Company**                   | **Location**    | **Position**                  | **Duration**          |
 |:------------------------------|:----------------|:----------------------------|:----------------------|
 | *Johnson Controls*            | *Dalian, China* | *Data science Engineer;IT Department* | *Mar 2022 – Jan 2023* |
 
