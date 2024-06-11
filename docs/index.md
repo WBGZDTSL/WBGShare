@@ -1,17 +1,40 @@
 # Welcome to WBGShare
+## **ABOUT ME**
+Bangguo Wei (En: Aaron Wei)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Email: wyy19988689@163.com | AaronWei.BG@foxmail.com
 
-## Commands
+Location: Hefei City, Anhui Province | CHINA
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## **EDUCATION**
 
-## Project layout
+| **University**               | **Location**    | **Degree**                                  | **Duration**                  |
+|:-----------------------------|:----------------|:--------------------------------------------|:------------------------------|
+| *Xiamen University*          | *Xiamen, China* | *PHD; Major in Technological Economics*     | *Sept 2024 – June 2028(Plan)* |
+| *Dalian Maritime University* | *Dalian, China* | *Master; Major in Transportation*   | *Sept 2020 – June 2023*       |
+| *Changan University*         | *Xian, China*   | *Bachelor; Major in Transportation* | *Sept 2016 – June 2020*       |
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+*   **Research related:** Energy economics | Energy policy | CGE | Econometrics
+*   **Honors/Awards:** Azure Data Scientist Associate | First prize graduate scholarship 
+
+## **INTERNSHIP EXPERIENCE**
+
+| **Company**                   | **Location**    | **Degree**                  | **Duration**          |
+|:------------------------------|:----------------|:----------------------------|:----------------------|
+| *Johnson Controls*            | *Dalian, China* | *Data science Engineer;IT Department* | *Mar 2022 – Jan 2023* |
+
+
+*   Sensitive Data Leak Detection: Build a Python algorithm to extract, process, identify and match keywords in files and directories, and classify permissions based on this; By using Microsoft platform linked database, the NLP function is modular and automated.
+
+*   AI Maintain: With the help of survival analysis algorithm, the probability of damage of air conditioning parts at a certain point in time is predicted. Use python's Dash and Plotly libraries to create interactive signage that visualises when parts break down.
+
+*   Azure Pipeline: Responsible for the big data process of the Asia-Pacific financial project: captured monthly sales data in the data warehouse (SAP, iScala), completed data cleaning and transformation with the help of the data warehouse of Microsoft cloud platform, and visualized the company's sales performance trend every fiscal year with Power BI; The underlying code uses SQL language to do sales data cleaning and transformation (ETL), assist in the development of Microsoft cloud data warehouse to complete automation, shorten 90% of employee processing time, and achieve commercialization of the final result.
+
+## **SKILLS & INTERESTS**
+
+**Languages:** Chinese(100%) | English(60%)
+
+**Technical Skills:** Python | Stata | R | Matlab | Eviews
+
+**Certifications & Training**: ADSA (Microsoft Data Science Skills Certification)

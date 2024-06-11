@@ -17,13 +17,13 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-      primary: teal
+      primary: deep orange
       accent: deep purple
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: teal
+      primary: deep orange
       accent: deep orange
 
 extra:
