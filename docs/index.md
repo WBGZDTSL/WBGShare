@@ -17,7 +17,7 @@ Location: Hefei City, Anhui Province | CHINA
 | *Changan University*         | *Xian, China*   | *Bachelor; Major in Transportation* | *Sept 2016 – June 2020*       |
 
 
-*   **Research related:** Energy economics | Energy policy | CGE | Econometrics
+*   **Research related:** Energy economics | Energy policy | DSGE | Econometrics
 *   **Honors/Awards:** Azure Data Scientist Associate | First prize graduate scholarship 
 
 ## **INTERNSHIP EXPERIENCE**
@@ -37,6 +37,6 @@ Location: Hefei City, Anhui Province | CHINA
 
 **Languages:** Chinese(100%) | English(60%)
 
-**Technical Skills:** Python | Stata | R | Matlab | Eviews
+**Technical Skills:** Stata | Matlab | Eviews | Python
 
 **Certifications & Training**: ADSA (Microsoft Data Science Skills Certification)
