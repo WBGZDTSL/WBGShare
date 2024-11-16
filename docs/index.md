@@ -18,7 +18,7 @@ Location: Hefei City, Anhui Province | CHINA
 
 
 *   **Research related:** Energy economics | Energy policy | DSGE | Econometrics
-*   **Honors/Awards:** Azure Data Scientist Associate | First prize graduate scholarship 
+*   **Honors:** Azure Data Scientist Associate
 
 ## **INTERNSHIP EXPERIENCE**
 
