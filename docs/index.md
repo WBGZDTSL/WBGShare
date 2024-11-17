@@ -11,7 +11,7 @@
 
 ## **ABOUT ME**
 <blockquote class="custom-blockquote">
-  <p>"Firstly, I introuce myself to you. I am a computer enthusiast, a student who loves reading, writing, and new things. In the future, I will share my learning process, personal paper, and many intresting things here! If criticism is not free, then praise is meaningless. If you have any opinions on the content, feel free to email me. Let us encourage each other."</p>
+  <p>"Reading, sports and writing constitute my life. In the future, I will share my learning process, personal paper, and many intresting things here! If criticism is not free, then praise is meaningless. If you have any opinions on the content, feel free to email me. Let us encourage each other."</p>
 </blockquote>
 
 Name:Bangguo Wei (En: Aaron Wei)
@@ -29,7 +29,7 @@ Location: Hefei City, Anhui Province | CHINA
 | *Changan University*         | *Xian, China*   | *Bachelor; Major in Transportation* | *Sept 2016 – June 2020*       |
 
 
-*   **Research related:** Energy economics | Energy policy | DSGE | Econometrics
+*   **Research related:** Energy economics | Energy policy | Power Safety | Macroeconomics 
 *   **Honors:** Azure Data Scientist Associate
 
 ## **INTERNSHIP EXPERIENCE**
@@ -49,6 +49,6 @@ Location: Hefei City, Anhui Province | CHINA
 
 **Languages:** Chinese(100%) | English(65%)
 
-**Technical Skills:** Stata | Matlab | Eviews | Python | Mathematica
+**Technical Skills:** Econometrics | DSGE | Data Analysis
 
 **Certifications & Training**: ADSA (Microsoft Data Science Skills Certification)
