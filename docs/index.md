@@ -35,8 +35,8 @@ Location: Hefei City, Anhui Province | CHINA
 
 ## **SKILLS & INTERESTS**
 
-**Languages:** Chinese(100%) | English(60%)
+**Languages:** Chinese(100%) | English(65%)
 
-**Technical Skills:** Stata | Matlab | Eviews | Python
+**Technical Skills:** Stata | Matlab | Eviews | Python | Mathematica
 
 **Certifications & Training**: ADSA (Microsoft Data Science Skills Certification)
