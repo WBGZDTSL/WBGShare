@@ -1,4 +1,4 @@
-# Welcome to WBGShare
+# WBGShare
 
 <style>
   .custom-blockquote {
