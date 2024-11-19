@@ -20,4 +20,4 @@ I thought this year's accident was slow, but time is suddenly half a year. One d
 
 May the years be free, the breeze is always in, the green water is long flowing, and the personnel are safe.
 
-To share with you.
+Striving together with you.
