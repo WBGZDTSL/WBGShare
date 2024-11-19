@@ -6,7 +6,7 @@
 ## Working Paper
 <p>Bangguo Wei, 2024. “Spatial and Temporal Changes in the Security of Regional Power Supply in China and Risk Assessment”</p>
 <progress value="25" max="100">50%</progress>
-<p>Bangguo Wei, 2024. “An Empirical Study of Agglomeration Economies, Factor Endowments, and Firm Location Under Extreme Weather: Evidence from Clean Electricity Panel Data”</p>
+<p>Bangguo Wei, 2024. “Lights dim, Decreased Investment: Examining the Heterogeneous Impact of Extreme Weather on Business Investment”</p>
 <progress value="50" max="100">50%</progress>
 <p>Bangguo Wei, 2024. “Industrial Structure Upgrading: Pitfall or Payoff? Evidence from the Dynamic Interplay between Electricity Consumption and Economic Growth in China”</p>
 <progress value="10" max="100">50%</progress>
