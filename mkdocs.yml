@@ -11,6 +11,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.code.select
   language: en
   palette:
     - scheme: default
@@ -25,6 +26,10 @@ theme:
         name: Switch to light mode
       primary: deep orange
       accent: deep orange
+
+plugins:
+  - social：
+      cards_layout:
 
 extra:
   social:
@@ -46,6 +51,7 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
