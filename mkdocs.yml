@@ -27,9 +27,6 @@ theme:
       primary: deep orange
       accent: deep orange
 
-plugins:
-  - social:
-        - cards: false
 
 extra:
   social:
