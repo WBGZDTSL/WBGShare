@@ -28,7 +28,8 @@ theme:
       accent: deep orange
 
 plugins:
-  - social
+  - social:
+        - cards: false
 
 extra:
   social:
