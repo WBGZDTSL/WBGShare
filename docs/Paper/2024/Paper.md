@@ -9,12 +9,12 @@
 ---
 **Bangguo Wei** (2024)  
 <p><em>Lights Dim, Decreased Investment: Examining the Heterogeneous Impact of Extreme Weather on Business Investment</em></p>
-<progress value="50" max="100">50%</progress>
+<progress value="70" max="100">50%</progress>
 
 ---
 **Bangguo Wei** (2024)  
 <p><em>Industrial Structure Upgrading: Pitfall or Payoff? Evidence from China</em></p>
-<progress value="15" max="100">15%</progress>
+<progress value="20" max="100">15%</progress>
 
 ---
 **Bangguo Wei** (2024)  
