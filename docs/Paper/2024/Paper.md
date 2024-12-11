@@ -14,9 +14,9 @@
 ---
 **Bangguo Wei** (2024)  
 <p><em>Industrial Structure Upgrading: Pitfall or Payoff? Evidence from China</em></p>
-<progress value="20" max="100">15%</progress>
+<progress value="10" max="100">15%</progress>
 
 ---
 **Bangguo Wei** (2024)  
 <p><em>Good Wine Needs No Bush: Can Electricity Distribution Promote Investment Attraction?</em></p>
-<progress value="20" max="100">20%</progress>
+<progress value="30" max="100">20%</progress>
