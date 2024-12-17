@@ -1,4 +1,4 @@
-# Record
+# Reading & Learning
 
 ## Reading In Progress
 |   | Title                                                                                          | Progress                                |
