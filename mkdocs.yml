@@ -2,8 +2,11 @@ site_name: WBGshare
 theme:
   name: material
   features:
+    - navigation.instant
+    - navigation.instant.progress
     - navigation.tabs
     - navigation.sections
+    - navigation.expand
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -18,15 +21,17 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-      primary: deep orange
-      accent: deep purple
+      primary: brown
+      accent: brown
     - scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-      primary: deep orange
-      accent: deep orange
-
+      primary: brown
+      accent: brown
+  font:
+      text: Merriweather
+      code: Roboto Mono
 
 extra:
   social:
