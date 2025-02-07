@@ -7,7 +7,7 @@
 | 2 | **The ABCs of RBCs: An Introduction to Dynamic Macroeconomic Models**                          | <progress value=10 max=442></progress>  |
 | 3 | **Microeconomic Theory**                                                                       | <progress value=40 max=458></progress>  |
 | 4 | **Dynamic Stochastic General Equilibrium (DSGE) Models: Theory, Methods, and Dynare Practice** | <progress value=25 max=550></progress>  |
-| 5 | **Textbook of Computable General Equilibrium Modelling**                                       | <progress value=10 max=182></progress>  |
+| 5 | **Textbook of Computable General Equilibrium Modelling**                                       | <progress value=20 max=182></progress>  |
 | 6 | **Macroeconomic Theory A Dynamic General Equilibrium Approach**                                | <progress value=20 max=617></progress>  |
 
 
