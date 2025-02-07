@@ -12,10 +12,12 @@
 
 
 ## New Skills Learning  Progress
-|   | Skill                       | Progress                               |
-|---|-----------------------------|----------------------------------------|
-| 1 | **LaTeX**                   | <progress value=20 max=100></progress> |
-| 2 | **Mathematica**             | <progress value=30 max=100></progress> |
-| 3 | **Stata for Econometrics**  | <progress value=30 max=100></progress> |
-| 4 | **R Programming**           | <progress value=35 max=100></progress> |
-| 5 | **Python for Data Science** | <progress value=50 max=100></progress> |
+|   | Skill                          | Progress                               |
+|---|--------------------------------|----------------------------------------|
+| 1 | **LaTeX**                      | <progress value=20 max=100></progress> |
+| 2 | **Mathematica**                | <progress value=30 max=100></progress> |
+| 3 | **Stata for Econometrics**     | <progress value=35 max=100></progress> |
+| 4 | **R**                          | <progress value=35 max=100></progress> |
+| 5 | **Python for Data Science**    | <progress value=50 max=100></progress> |
+| 6 | **Matlab for DSGE**            | <progress value=5 max=100></progress>  |
+| 7 | **Gams for CGE**               | <progress value=5 max=100></progress>  |
