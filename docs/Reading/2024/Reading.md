@@ -9,7 +9,7 @@
 | 4 | **Dynamic Stochastic General Equilibrium (DSGE) Models: Theory, Methods, and Dynare Practice** | <progress value=25  max=550></progress> |
 | 5 | **Textbook of Computable General Equilibrium Modelling**                                       | <progress value=50  max=177></progress> |
 | 6 | **Macroeconomic Theory A Dynamic General Equilibrium Approach**                                | <progress value=20  max=617></progress> |
-| 7 | **Principles of Computable General Equilibrium(CGE) Modeling and Programming**                 | <progress value=10  max=272></progress> |
+| 7 | **Principles of Computable General Equilibrium(CGE) Modeling and Programming**                 | <progress value=24  max=272></progress>  |
 | 8 | **A little Book about Social Sciencer**                                                        | <progress value=54  max=381></progress> |
 
 ## New Skills Learning  Progress
@@ -21,4 +21,4 @@
 | 4 | **R**                          | <progress value=35 max=100></progress> |
 | 5 | **Python for Data Science**    | <progress value=50 max=100></progress> |
 | 6 | **Matlab for DSGE**            | <progress value=5 max=100></progress>  |
-| 7 | **Gams for CGE**               | <progress value=10 max=100></progress> |
+| 7 | **Gams for CGE**               | <progress value=15 max=100></progress> |
