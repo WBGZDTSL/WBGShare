@@ -59,4 +59,4 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 
-copyright: 2026 <a href="https://github.com/WBGZDTSL/WBGShare" target="_blank" rel="noopener">Aaron Wei</a>
+copyright: 2026 <a href="https://github.com/WBGZDTSL/WBGShare" target="_blank" rel="noopener">Bangguo Aaron Wei</a>
